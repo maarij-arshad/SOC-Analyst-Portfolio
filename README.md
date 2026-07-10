@@ -29,3 +29,10 @@ Hands-on cybersecurity project involving pfSense firewall deployment, administra
 
 ### Repository: 
 https://github.com/UnknownPERSON06660/pfsense-wazuh-security-monitoring.git
+
+## 3. Malware Detection & Incident Response Lab
+
+Hands-on cybersecurity project involving pfSense firewall, Suricata IDS, Wazuh SIEM, Windows endpoint monitoring, malware analysis, IOC/IOA identification, and incident response implementation based on the NIST SP 800-61 framework in a virtual SOC laboratory.
+
+### Repository:
+https://github.com/UnknownPERSON06660/SOC-Lab-Malware-Incident-Response.git
