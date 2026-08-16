@@ -1,4 +1,4 @@
-# SOC Analyst Portfolio
+# SOC Analyst Internship
 
 Welcome to my SOC Analyst portfolio. This repository serves as a central index of my SOC Analyst labs, SIEM projects, security monitoring exercises, and internship tasks.
 
